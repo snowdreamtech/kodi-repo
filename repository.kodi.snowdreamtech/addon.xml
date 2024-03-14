@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.Snowdream Tech"
 		name="Kodi Add-on Repository Snowdream Tech"
-		version="0.0.3"
+		version="0.0.4"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
-        <info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml</info>
-        <checksum>https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/frodo/</datadir>
+        <info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml</info>
+        <checksum>https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/gotham/</datadir>
         <hashes>false</hashes>
     </extension>
 	<extension point="xbmc.addon.metadata">
