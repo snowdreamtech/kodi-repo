@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="repository.kodi.mirror.aliyun"
+		name="Kodi Add-on Repository Chinese AliYun Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese AliYun Mirrors">
+		<info>https://mirrors.aliyun.com/xbmc/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirrors.aliyun.com/xbmc/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirrors.aliyun.com/xbmc/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese AliYun Mirrors</summary>
+        <summary lang="zh">官方插件库在阿里云镜像站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese AliYun Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在中国 互联网络信息中心开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from AliYun Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由阿里云镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.mirror.bfsu"
+		name="Kodi Add-on Repository Chinese BFSU Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese BFSU Mirrors">
+		<info>https://mirrors.bfsu.edu.cn/kodi/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese BFSU Mirrors</summary>
+        <summary lang="zh">官方插件库在北京外国语大学开源站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese BFSU Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在北京外国语大学开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from BFSU Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由北京外国语大学镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.mirror.cnnic"
+		name="Kodi Add-on Repository Chinese CNNIC Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese CNNIC Mirrors">
+		<info>https://mirrors.cnnic.cn/kodi/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirrors.cnnic.cn/kodi/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirrors.cnnic.cn/kodi/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese CNNIC Mirrors</summary>
+        <summary lang="zh">官方插件库在中国互联网络信息中心开源站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese CNNIC Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在中国互联网络信息中心开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from CNNIC Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由中国互联网络信息中心镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.mirror.iscas"
+		name="Kodi Add-on Repository Chinese ISCAS Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese ISCAS Mirrors">
+		<info>https://mirror.iscas.ac.cn/kodi/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirror.iscas.ac.cn/kodi/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirror.iscas.ac.cn/kodi/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese ISCAS Mirrors</summary>
+        <summary lang="zh">官方插件库在中国科学院软件研究所开源站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese ISCAS Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在中国科学院软件研究所开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from ISCAS Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由中国科学院软件研究所镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.mirror.nju"
+		name="Kodi Add-on Repository Chinese NJU Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NJU Mirrors">
+		<info>https://mirrors.nju.edu.cn/kodi/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirrors.nju.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirrors.nju.edu.cn/kodi/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese NJU Mirrors</summary>
+        <summary lang="zh">官方插件库在南京大学开源站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese NJU Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在南京大学开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from NJU Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由南京大学镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.mirror.nyist"
+		name="Kodi Add-on Repository Chinese NYIST Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NYIST Mirrors">
+		<info>https://mirror.nyist.edu.cn/kodi/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirror.nyist.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirror.nyist.edu.cn/kodi/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese NYIST Mirrors</summary>
+        <summary lang="zh">官方插件库在南阳理工学院开源站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese NYIST Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在南阳理工学院开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from NYIST Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由南阳理工学院镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.mirror.thu"
+		name="Kodi Add-on Repository Chinese THU Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese THU Mirrors">
+		<info>/Users/snowdream/workspace/repository.kodi.chinese/repository.kodi.mirrors.ustc/kodi/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese THU Mirrors</summary>
+        <summary lang="zh">官方插件库在清华大学开源站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese THU Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在清华大学开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from THU Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由清华大学镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.mirror.ustc"
+		name="Kodi Add-on Repository Chinese USTC Mirrors"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese USTC Mirrors">
+		<info>https://mirrors.ustc.edu.cn/xbmc/addons/leia/addons.xml.gz</info>
+		<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/leia/addons.xml.gz</checksum>
+		<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/leia</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Chinese USTC Mirrors</summary>
+        <summary lang="zh">官方插件库在中国科学技术大学开源站的镜像库</summary>
+        <description>Kodi Add-on Repository Chinese USTC Mirrors</description>
+        <description lang="zh">本插件是一个库，提供官方插件库在中国科学技术大学开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from China University of Science and Technology Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由中国科学技术大学镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.snowdreamtech"
+		name="Kodi Add-on Repository Snowdream Tech"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
+        <dir minversion="18.0.0">
+            <info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/main/addons.xml</info>
+            <checksum>https://github.com/snowdreamtech/kodi-repo/raw/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/main/</datadir>
+        </dir>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Snowdream Tech</summary>
+        <summary lang="zh">雪梦科技 Kodi 插件库</summary>
+        <description>Kodi Add-on Repository Snowdream Tech</description>
+        <description lang="zh">本插件是一个库，提供一些 Kodi 中国镜像库等插件下载。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library.</disclaimer>
+        <disclaimer lang="zh">snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+
+<addon id="repository.kodi.snowdreamtech.cn"
+		name="Kodi Add-on Repository Snowdream Tech"
+		version="0.0.1"
+		provider-name="snowdreamtech">
+	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
+        <dir minversion="18.0.0">
+            <info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/main/addons.xml</info>
+            <checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/main/</datadir>
+        </dir>
+    </extension>
+	<extension point="xbmc.addon.metadata">
+        <summary>Kodi Add-on Repository Snowdream Tech</summary>
+        <summary lang="zh">雪梦科技 Kodi 插件库</summary>
+        <description>Kodi Add-on Repository Snowdream Tech</description>
+        <description lang="zh">本插件是一个库，提供一些 Kodi 中国镜像库等插件下载。</description>
+        <disclaimer>snowdreamtech is not responsible for any content in this library.</disclaimer>
+        <disclaimer lang="zh">snowdreamtech对任何内容不承担责任。</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
