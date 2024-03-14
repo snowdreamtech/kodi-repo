@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.mirror.bfsu"
 		name="Kodi Add-on Repository Chinese BFSU Mirrors"
-		version="0.0.5"
+		version="0.0.6"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese BFSU Mirrors">
-		<info>https://mirrors.bfsu.edu.cn/kodi/addons/helix/addons.xml.gz</info>
-		<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/helix/addons.xml.gz</checksum>
-		<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/helix</datadir>
+		<info>https://mirrors.bfsu.edu.cn/kodi/addons/isengard/addons.xml.gz</info>
+		<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/isengard/addons.xml.gz</checksum>
+		<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/isengard</datadir>
 		<hashes>false</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
