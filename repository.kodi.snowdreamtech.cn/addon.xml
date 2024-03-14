@@ -11,7 +11,7 @@
         </dir>
     </extension>
 	<extension point="xbmc.addon.metadata">
-        <summary>Kodi Add-on Repository Snowdream Tech</summary>
+        <summary>Kodi Add-on Repository Snowdream Tech China</summary>
         <summary lang="zh">雪梦科技 Kodi 插件库</summary>
         <description>Kodi Add-on Repository Snowdream Tech</description>
         <description lang="zh">本插件是一个库，提供一些 Kodi 中国镜像库等插件下载。</description>
