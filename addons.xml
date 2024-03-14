@@ -2,13 +2,81 @@
 <addons>
 <addon id="repository.kodi.mirror.aliyun"
 		name="Kodi Add-on Repository Chinese AliYun Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese AliYun Mirrors">
-		<info>https://mirrors.aliyun.com/xbmc/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirrors.aliyun.com/xbmc/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirrors.aliyun.com/xbmc/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirrors.aliyun.com/xbmc/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirrors.aliyun.com/xbmc/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese AliYun Mirrors</summary>
@@ -23,13 +91,81 @@
 
 <addon id="repository.kodi.mirror.bfsu"
 		name="Kodi Add-on Repository Chinese BFSU Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese BFSU Mirrors">
-		<info>https://mirrors.bfsu.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirrors.bfsu.edu.cn/kodi/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese BFSU Mirrors</summary>
@@ -44,13 +180,81 @@
 
 <addon id="repository.kodi.mirror.cnnic"
 		name="Kodi Add-on Repository Chinese CNNIC Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese CNNIC Mirrors">
-		<info>https://mirrors.cnnic.cn/kodi/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirrors.cnnic.cn/kodi/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirrors.cnnic.cn/kodi/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirrors.cnnic.cn/kodi/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirrors.cnnic.cn/kodi/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirrors.cnnic.cn/kodi/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirrors.cnnic.cn/kodi/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese CNNIC Mirrors</summary>
@@ -65,13 +269,81 @@
 
 <addon id="repository.kodi.mirror.iscas"
 		name="Kodi Add-on Repository Chinese ISCAS Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese ISCAS Mirrors">
-		<info>https://mirror.iscas.ac.cn/kodi/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirror.iscas.ac.cn/kodi/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirror.iscas.ac.cn/kodi/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirror.iscas.ac.cn/kodi/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirror.iscas.ac.cn/kodi/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirror.iscas.ac.cn/kodi/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese ISCAS Mirrors</summary>
@@ -86,13 +358,81 @@
 
 <addon id="repository.kodi.mirror.nju"
 		name="Kodi Add-on Repository Chinese NJU Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NJU Mirrors">
-		<info>https://mirrors.nju.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirrors.nju.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirrors.nju.edu.cn/kodi/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirrors.nju.edu.cn/kodi/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirrors.nju.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirrors.nju.edu.cn/kodi/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese NJU Mirrors</summary>
@@ -107,13 +447,81 @@
 
 <addon id="repository.kodi.mirror.nyist"
 		name="Kodi Add-on Repository Chinese NYIST Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NYIST Mirrors">
-		<info>https://mirror.nyist.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirror.nyist.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirror.nyist.edu.cn/kodi/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirror.nyist.edu.cn/kodi/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirror.nyist.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirror.nyist.edu.cn/kodi/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese NYIST Mirrors</summary>
@@ -128,13 +536,81 @@
 
 <addon id="repository.kodi.mirror.thu"
 		name="Kodi Add-on Repository Chinese THU Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese THU Mirrors">
-		<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese THU Mirrors</summary>
@@ -149,13 +625,81 @@
 
 <addon id="repository.kodi.mirror.ustc"
 		name="Kodi Add-on Repository Chinese USTC Mirrors"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese USTC Mirrors">
-		<info>https://mirrors.ustc.edu.cn/xbmc/addons/matrix/addons.xml.gz</info>
-		<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/matrix/addons.xml.gz</checksum>
-		<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/matrix</datadir>
-		<hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/dharma/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/dharma/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/dharma</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/eden/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/eden/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/eden</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/frodo/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/frodo/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/frodo</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/gotham/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/gotham/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/gotham</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/helix/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/helix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/helix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/isengard/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/isengard/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/isengard</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/jarvis/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/jarvis/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/jarvis</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/krypton/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/krypton/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/krypton</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/leia/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/leia/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/leia</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/matrix/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/matrix/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/matrix</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/nexus/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/nexus/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/nexus</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info>https://mirrors.ustc.edu.cn/xbmc/addons/omega/addons.xml.gz</info>
+			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/omega/addons.xml.gz</checksum>
+			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/omega</datadir>
+			<hashes>false</hashes>
+		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese USTC Mirrors</summary>
@@ -170,13 +714,81 @@
 
 <addon id="repository.kodi.Snowdream Tech"
 		name="Kodi Add-on Repository Snowdream Tech"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
-        <info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml</info>
-        <checksum>https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/matrix/</datadir>
-        <hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/dharma/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/eden/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/eden/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/eden/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/frodo/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/gotham/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/helix/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/helix/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/helix/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/isengard/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/isengard/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/isengard/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/jarvis/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/jarvis/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/jarvis/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/krypton/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/leia/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/matrix/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/nexus/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/nexus/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
+			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
+			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>
+			<hashes>false</hashes>
+		</dir>
     </extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Snowdream Tech</summary>
@@ -191,13 +803,81 @@
 
 <addon id="repository.kodi.Snowdream Tech.cn"
 		name="Kodi Add-on Repository Snowdream Tech"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
-        <info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml</info>
-        <checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml.md5</checksum>
-        <datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/</datadir>
-        <hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/eden/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/eden/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/eden/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/frodo/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/gotham/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/helix/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/helix/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/helix/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/isengard/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/isengard/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/isengard/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/jarvis/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/jarvis/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/jarvis/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>
+			<hashes>false</hashes>
+		</dir>
     </extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Snowdream Tech China</summary>

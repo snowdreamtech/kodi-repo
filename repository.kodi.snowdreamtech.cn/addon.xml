@@ -1,13 +1,81 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.Snowdream Tech.cn"
 		name="Kodi Add-on Repository Snowdream Tech"
-		version="0.1.0"
+		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
-        <info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml</info>
-        <checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml.md5</checksum>
-        <datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/</datadir>
-        <hashes>false</hashes>
+		<dir minversion="10.0.0"  maxversion="10.1">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="11.0.0"  maxversion="11.0.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/eden/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/eden/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/eden/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="12.0.0"  maxversion="12.3.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/frodo/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/frodo/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="13.0.0"  maxversion="13.2.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/gotham/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/gotham/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="14.0.0"  maxversion="14.2.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/helix/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/helix/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/helix/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="15.0.0"  maxversion="15.2.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/isengard/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/isengard/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/isengard/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="16.0.0"  maxversion="16.1.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/jarvis/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/jarvis/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/jarvis/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="17.0.0"  maxversion="17.6.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="18.0.0"  maxversion="18.9.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="19.0.0"  maxversion="19.5.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/matrix/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="20.0.0"  maxversion="20.5.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
+			<hashes>false</hashes>
+		</dir>
+		<dir minversion="21.0.0"  maxversion="21.0.0">
+			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
+			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
+			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>
+			<hashes>false</hashes>
+		</dir>
     </extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Snowdream Tech China</summary>
