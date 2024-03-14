@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.Snowdream Tech.cn"
 		name="Kodi Add-on Repository Snowdream Tech"
-		version="0.0.8"
+		version="0.0.9"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
-        <info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml</info>
-        <checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/addons.xml.md5</checksum>
-        <datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/krypton/</datadir>
+        <info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml</info>
+        <checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/addons.xml.md5</checksum>
+        <datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/leia/</datadir>
         <hashes>false</hashes>
     </extension>
 	<extension point="xbmc.addon.metadata">
