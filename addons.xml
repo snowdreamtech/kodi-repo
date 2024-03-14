@@ -712,7 +712,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.kodi.Snowdream Tech"
+<addon id="repository.kodi.snowdreamtech"
 		name="Kodi Add-on Repository Snowdream Tech"
 		version="0.1.2"
 		provider-name="Snowdream Tech">
@@ -801,7 +801,7 @@
 	</extension>
 </addon>
 
-<addon id="repository.kodi.Snowdream Tech.cn"
+<addon id="repository.kodi.snowdreamtech.cn"
 		name="Kodi Add-on Repository Snowdream Tech"
 		version="0.1.2"
 		provider-name="Snowdream Tech">
