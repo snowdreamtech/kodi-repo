@@ -2,7 +2,7 @@
 <addon id="repository.kodi.mirror.thu"
 		name="Kodi Add-on Repository Chinese THU Mirrors"
 		version="0.0.1"
-		provider-name="snowdreamtech">
+		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese THU Mirrors">
 		<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus/addons.xml.gz</info>
 		<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus/addons.xml.gz</checksum>
@@ -13,8 +13,8 @@
         <summary lang="zh">官方插件库在清华大学开源站的镜像库</summary>
         <description>Kodi Add-on Repository Chinese THU Mirrors</description>
         <description lang="zh">本插件是一个库，提供官方插件库在清华大学开源站的镜像下载，该镜像站点每日同步官方库中全部插件内容。[CR][CR]通过本插件库，在中国无法连接官方插件库时，可以实现官方库中所有插件的安装及更新，可以完整取代官方插件库（即Kodi Add-on Repository）。</description>
-        <disclaimer>snowdreamtech is not responsible for any content in this library, which comes from THU Synchronized Official Plug-in Library.</disclaimer>
-        <disclaimer lang="zh">本库中由清华大学镜像站同步官方插件库而来，snowdreamtech对任何内容不承担责任。</disclaimer>
+        <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from THU Synchronized Official Plug-in Library.</disclaimer>
+        <disclaimer lang="zh">本库中由清华大学镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>

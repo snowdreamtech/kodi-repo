@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.kodi.snowdreamtech"
+<addon id="repository.kodi.Snowdream Tech"
 		name="Kodi Add-on Repository Snowdream Tech"
 		version="0.0.1"
-		provider-name="snowdreamtech">
+		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
         <dir minversion="18.0.0">
-            <info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/main/addons.xml</info>
-            <checksum>https://github.com/snowdreamtech/kodi-repo/raw/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/main/</datadir>
+            <info compressed="false">https://github.com/Snowdream Tech/kodi-repo/raw/main/addons.xml</info>
+            <checksum>https://github.com/Snowdream Tech/kodi-repo/raw/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://github.com/Snowdream Tech/kodi-repo/raw/main/</datadir>
         </dir>
     </extension>
 	<extension point="xbmc.addon.metadata">
@@ -15,8 +15,8 @@
         <summary lang="zh">雪梦科技 Kodi 插件库</summary>
         <description>Kodi Add-on Repository Snowdream Tech</description>
         <description lang="zh">本插件是一个库，提供一些 Kodi 中国镜像库等插件下载。</description>
-        <disclaimer>snowdreamtech is not responsible for any content in this library.</disclaimer>
-        <disclaimer lang="zh">snowdreamtech对任何内容不承担责任。</disclaimer>
+        <disclaimer>Snowdream Tech is not responsible for any content in this library.</disclaimer>
+        <disclaimer lang="zh">Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
