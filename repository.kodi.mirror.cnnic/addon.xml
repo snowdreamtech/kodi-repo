@@ -7,6 +7,7 @@
 		<info>https://mirrors.cnnic.cn/kodi/addons/nexus/addons.xml.gz</info>
 		<checksum>https://mirrors.cnnic.cn/kodi/addons/nexus/addons.xml.gz</checksum>
 		<datadir>https://mirrors.cnnic.cn/kodi/addons/nexus</datadir>
+		<hashes>false</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese CNNIC Mirrors</summary>
