@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.mirror.aliyun"
 		name="Kodi Add-on Repository Chinese AliYun Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese AliYun Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">

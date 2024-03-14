@@ -2,7 +2,7 @@
 <addons>
 <addon id="repository.kodi.mirror.aliyun"
 		name="Kodi Add-on Repository Chinese AliYun Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese AliYun Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -91,7 +91,7 @@
 
 <addon id="repository.kodi.mirror.bfsu"
 		name="Kodi Add-on Repository Chinese BFSU Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese BFSU Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -180,7 +180,7 @@
 
 <addon id="repository.kodi.mirror.cnnic"
 		name="Kodi Add-on Repository Chinese CNNIC Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese CNNIC Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -269,7 +269,7 @@
 
 <addon id="repository.kodi.mirror.iscas"
 		name="Kodi Add-on Repository Chinese ISCAS Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese ISCAS Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -358,7 +358,7 @@
 
 <addon id="repository.kodi.mirror.nju"
 		name="Kodi Add-on Repository Chinese NJU Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NJU Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -447,7 +447,7 @@
 
 <addon id="repository.kodi.mirror.nyist"
 		name="Kodi Add-on Repository Chinese NYIST Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NYIST Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -536,7 +536,7 @@
 
 <addon id="repository.kodi.mirror.thu"
 		name="Kodi Add-on Repository Chinese THU Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese THU Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -625,7 +625,7 @@
 
 <addon id="repository.kodi.mirror.ustc"
 		name="Kodi Add-on Repository Chinese USTC Mirrors"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese USTC Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -714,7 +714,7 @@
 
 <addon id="repository.kodi.Snowdream Tech"
 		name="Kodi Add-on Repository Snowdream Tech"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
 		<dir minversion="10.0.0"  maxversion="10.1">
@@ -803,7 +803,7 @@
 
 <addon id="repository.kodi.Snowdream Tech.cn"
 		name="Kodi Add-on Repository Snowdream Tech"
-		version="0.1.1"
+		version="0.1.2"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
 		<dir minversion="10.0.0"  maxversion="10.1">
