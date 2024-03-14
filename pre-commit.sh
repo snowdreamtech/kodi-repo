@@ -19,8 +19,9 @@ done
 for f in ./repository.*
 do
         echo "Repository found: $f"
-        version=`cat $f/addon.xml | sed -En 's/.*version="([[:digit:]]+\.[[:digit:]]+\.[[:digit:]]+)"/\\1/p' | tr -d '\015\032'`
+        version=`cat $f/addon.xml | sed -En 's/\t+version="([[:digit:]]+\.[[:digit:]]+\.[[:digit:]]+)"/\\1/p'| tr -d '\015\032'`
         addon_name=`basename $f`
+        echo $version
 
         rm -f "$addon_name/$addon_name-$version.zip"
         zip -r "$addon_name/$addon_name-$version.zip" "$addon_name" -x "*.zip"
