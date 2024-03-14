@@ -4,9 +4,9 @@
 		version="0.0.1"
 		provider-name="snowdreamtech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NJU Mirrors">
-		<info>https://mirrors.nju.edu.cn/kodi/addons/leia/addons.xml.gz</info>
-		<checksum>https://mirrors.nju.edu.cn/kodi/addons/leia/addons.xml.gz</checksum>
-		<datadir>https://mirrors.nju.edu.cn/kodi/addons/leia</datadir>
+		<info>https://mirrors.nju.edu.cn/kodi/addons/nexus/addons.xml.gz</info>
+		<checksum>https://mirrors.nju.edu.cn/kodi/addons/nexus/addons.xml.gz</checksum>
+		<datadir>https://mirrors.nju.edu.cn/kodi/addons/nexus</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
         <summary>Kodi Add-on Repository Chinese NJU Mirrors</summary>
