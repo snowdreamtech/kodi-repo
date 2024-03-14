@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.mirror.iscas"
 		name="Kodi Add-on Repository Chinese ISCAS Mirrors"
-		version="0.0.6"
+		version="0.0.7"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese ISCAS Mirrors">
-		<info>https://mirror.iscas.ac.cn/kodi/addons/isengard/addons.xml.gz</info>
-		<checksum>https://mirror.iscas.ac.cn/kodi/addons/isengard/addons.xml.gz</checksum>
-		<datadir>https://mirror.iscas.ac.cn/kodi/addons/isengard</datadir>
+		<info>https://mirror.iscas.ac.cn/kodi/addons/jarvis/addons.xml.gz</info>
+		<checksum>https://mirror.iscas.ac.cn/kodi/addons/jarvis/addons.xml.gz</checksum>
+		<datadir>https://mirror.iscas.ac.cn/kodi/addons/jarvis</datadir>
 		<hashes>false</hashes>
 	</extension>
 	<extension point="xbmc.addon.metadata">
