@@ -85,5 +85,9 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library.</disclaimer>
         <disclaimer lang="zh">Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>

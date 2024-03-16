@@ -86,6 +86,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from AliYun Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由阿里云镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -175,6 +179,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from BFSU Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由北京外国语大学镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -264,6 +272,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from CNNIC Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由中国互联网络信息中心镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -353,6 +365,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from ISCAS Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由中国科学院软件研究所镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -442,6 +458,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from NJU Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由南京大学镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -531,6 +551,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from NYIST Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由南阳理工学院镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -620,6 +644,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from THU Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由清华大学镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -709,6 +737,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from China University of Science and Technology Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由中国科学技术大学镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -798,6 +830,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library.</disclaimer>
         <disclaimer lang="zh">Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 
@@ -887,6 +923,10 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library.</disclaimer>
         <disclaimer lang="zh">Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
 </addons>

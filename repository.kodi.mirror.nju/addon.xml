@@ -85,5 +85,9 @@
         <disclaimer>Snowdream Tech is not responsible for any content in this library, which comes from NJU Synchronized Official Plug-in Library.</disclaimer>
         <disclaimer lang="zh">本库中由南京大学镜像站同步官方插件库而来，Snowdream Tech对任何内容不承担责任。</disclaimer>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <!-- <fanart>fanart.jpg</fanart> -->
+        </assets>
 	</extension>
 </addon>
