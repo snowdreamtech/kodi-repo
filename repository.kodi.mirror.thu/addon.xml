@@ -70,7 +70,7 @@
 			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega</datadir>

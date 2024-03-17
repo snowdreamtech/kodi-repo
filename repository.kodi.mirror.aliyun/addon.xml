@@ -70,7 +70,7 @@
 			<datadir>https://mirrors.aliyun.com/xbmc/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.aliyun.com/xbmc/addons/omega</datadir>

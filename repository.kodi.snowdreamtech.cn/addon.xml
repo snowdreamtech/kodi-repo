@@ -70,7 +70,7 @@
 			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
 			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
 			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>

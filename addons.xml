@@ -71,7 +71,7 @@
 			<datadir>https://mirrors.aliyun.com/xbmc/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.aliyun.com/xbmc/addons/omega</datadir>
@@ -164,7 +164,7 @@
 			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.bfsu.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/omega</datadir>
@@ -257,7 +257,7 @@
 			<datadir>https://mirrors.cnnic.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.cnnic.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.cnnic.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.cnnic.cn/kodi/addons/omega</datadir>
@@ -350,7 +350,7 @@
 			<datadir>https://mirror.iscas.ac.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirror.iscas.ac.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirror.iscas.ac.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirror.iscas.ac.cn/kodi/addons/omega</datadir>
@@ -443,7 +443,7 @@
 			<datadir>https://mirrors.nju.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.nju.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.nju.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.nju.edu.cn/kodi/addons/omega</datadir>
@@ -536,7 +536,7 @@
 			<datadir>https://mirror.nyist.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirror.nyist.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirror.nyist.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirror.nyist.edu.cn/kodi/addons/omega</datadir>
@@ -629,7 +629,7 @@
 			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega</datadir>
@@ -722,7 +722,7 @@
 			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info>https://mirrors.ustc.edu.cn/xbmc/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/omega</datadir>
@@ -815,7 +815,7 @@
 			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
 			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>
@@ -908,7 +908,7 @@
 			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="21.0.0"  maxversion="21.0.0">
+		<dir minversion="20.5.0"  maxversion="21.0.0">
 			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
 			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
 			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>
