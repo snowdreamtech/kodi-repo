@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodi.mirror.nyist"
 		name="Kodi Add-on Repository Chinese NYIST Mirrors"
-		version="0.1.1"
+		version="0.1.3"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NYIST Mirrors">
 		<dir minversion="10.0.0"  maxversion="10.1.0">
