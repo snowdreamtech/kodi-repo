@@ -9,7 +9,7 @@ from importlib import reload
 
 stdi, stdo, stde = sys.stdin, sys.stdout, sys.stderr
 reload(sys)
-sys.setdefaultencoding('utf-8')
+
 sys.stdin, sys.stdout, sys.stderr = stdi, stdo, stde
 
 
