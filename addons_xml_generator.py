@@ -5,6 +5,8 @@
 # fix:
 # Excluding ../addon.xml for 'ascii' codec can't decode byte 0xe5 in position 606: ordinal not in range(128)
 import sys  
+from importlib import reload
+
 stdi, stdo, stde = sys.stdin, sys.stdout, sys.stderr
 reload(sys)
 sys.setdefaultencoding('utf-8')

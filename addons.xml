@@ -5,7 +5,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese AliYun Mirrors">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info>https://mirrors.aliyun.com/xbmc/addons/dharma/addons.xml.gz</info>
 			<checksum>https://mirrors.aliyun.com/xbmc/addons/dharma/addons.xml.gz</checksum>
 			<datadir>https://mirrors.aliyun.com/xbmc/addons/dharma</datadir>
@@ -71,7 +71,7 @@
 			<datadir>https://mirrors.aliyun.com/xbmc/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.aliyun.com/xbmc/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.aliyun.com/xbmc/addons/omega</datadir>
@@ -98,7 +98,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese BFSU Mirrors">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info>https://mirrors.bfsu.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
 			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
 			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/dharma</datadir>
@@ -164,7 +164,7 @@
 			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info>https://mirrors.bfsu.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.bfsu.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.bfsu.edu.cn/kodi/addons/omega</datadir>
@@ -191,7 +191,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese ISCAS Mirrors">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info>https://mirror.iscas.ac.cn/kodi/addons/dharma/addons.xml.gz</info>
 			<checksum>https://mirror.iscas.ac.cn/kodi/addons/dharma/addons.xml.gz</checksum>
 			<datadir>https://mirror.iscas.ac.cn/kodi/addons/dharma</datadir>
@@ -257,7 +257,7 @@
 			<datadir>https://mirror.iscas.ac.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info>https://mirror.iscas.ac.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirror.iscas.ac.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirror.iscas.ac.cn/kodi/addons/omega</datadir>
@@ -284,7 +284,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NJU Mirrors">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info>https://mirrors.nju.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
 			<checksum>https://mirrors.nju.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
 			<datadir>https://mirrors.nju.edu.cn/kodi/addons/dharma</datadir>
@@ -350,7 +350,7 @@
 			<datadir>https://mirrors.nju.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info>https://mirrors.nju.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.nju.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.nju.edu.cn/kodi/addons/omega</datadir>
@@ -377,7 +377,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese NYIST Mirrors">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info>https://mirror.nyist.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
 			<checksum>https://mirror.nyist.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
 			<datadir>https://mirror.nyist.edu.cn/kodi/addons/dharma</datadir>
@@ -443,7 +443,7 @@
 			<datadir>https://mirror.nyist.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info>https://mirror.nyist.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirror.nyist.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirror.nyist.edu.cn/kodi/addons/omega</datadir>
@@ -470,7 +470,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese THU Mirrors">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/dharma/addons.xml.gz</info>
 			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/dharma/addons.xml.gz</checksum>
 			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/dharma</datadir>
@@ -536,7 +536,7 @@
 			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.tuna.tsinghua.edu.cn/kodi/addons/omega</datadir>
@@ -563,7 +563,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Kodi Add-on Repository Chinese USTC Mirrors">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info>https://mirrors.ustc.edu.cn/xbmc/addons/dharma/addons.xml.gz</info>
 			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/dharma/addons.xml.gz</checksum>
 			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/dharma</datadir>
@@ -629,7 +629,7 @@
 			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/nexus</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info>https://mirrors.ustc.edu.cn/xbmc/addons/omega/addons.xml.gz</info>
 			<checksum>https://mirrors.ustc.edu.cn/xbmc/addons/omega/addons.xml.gz</checksum>
 			<datadir>https://mirrors.ustc.edu.cn/xbmc/addons/omega</datadir>
@@ -656,7 +656,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml</info>
 			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/dharma/</datadir>
@@ -722,7 +722,7 @@
 			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info compressed="false">https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
 			<checksum>https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>
@@ -749,7 +749,7 @@
 		version="0.1.1"
 		provider-name="Snowdream Tech">
 	<extension point="xbmc.addon.repository" name="Snowdream Tech Add-ons China">
-		<dir minversion="10.0.0"  maxversion="10.1">
+		<dir minversion="10.0.0"  maxversion="10.1.0">
 			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml</info>
 			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/addons.xml.md5</checksum>
 			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/dharma/</datadir>
@@ -815,7 +815,7 @@
 			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/nexus/</datadir>
 			<hashes>false</hashes>
 		</dir>
-		<dir minversion="20.5.0"  maxversion="21.0.0">
+		<dir minversion="21.0.0"  maxversion="21.2.0">
 			<info compressed="false">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml</info>
 			<checksum>https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/addons.xml.md5</checksum>
 			<datadir zip="true">https://ghproxy.net/https://github.com/snowdreamtech/kodi-repo/raw/omega/</datadir>
